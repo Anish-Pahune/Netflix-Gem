@@ -1,6 +1,7 @@
 # Netflix-Gemini
 
-Netflix-Gem (Netflix-Gemini) is a Netflix-inspired movie discovery platform that combines **TMDB API** for real-time movie data and **Gemini AI** for intelligent movie search and recommendations. The application is built with **React (Vite)** and **Firebase Authentication**, and features a **Tailwind CSS** for modern, responsive Netflix-style UI.
+Netflix-Gem (Netflix-Gemini) is a Netflix-inspired movie discovery platform that combines 
+**TMDB API** for real-time movie data and **Gemini AI** for intelligent movie search and recommendations. The application is built with **React (Vite)** and **Firebase Authentication**, and features a **Tailwind CSS** for modern, responsive Netflix-style UI.
 
 ---
 
